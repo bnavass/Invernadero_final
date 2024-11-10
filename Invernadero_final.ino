@@ -9,7 +9,7 @@
 #define pin1 16                   // Pin para el sensor de temperatura y humedad DHT11
 #define ledAzul 13                // Pin del LED azul, utilizado para encender/apagar
 #define ledRojo 12                // Pin del LED rojo, utilizado para al alarma
-#define motionSensor 27           // Pin del sensor de movimiento PIR
+#define motionSensor 27           // Pin del sensor de movimiento por infrarrojos
 
 // Configuración de red WiFi y credenciales del bot de Telegram
 const char* ssid = "iPhone de Begoña";    // Nombre de la red WiFi
